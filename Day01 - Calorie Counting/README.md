@@ -58,3 +58,4 @@ Find the top three Elves carrying the most Calories. **How many Calories are tho
 Your puzzle answer was `203905`.
 
 **Both parts of this puzzle are complete! They provide two gold stars: \*\***
+
